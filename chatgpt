@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Menu Patchwork</title>
+</head>
+<body>
+	<h1>Menu Patchwork</h1>
+	<ul>
+		<li><a href="metadata.php?index=1">Patchwork 1</a></li>
+		<li><a href="metadata.php?index=2">Patchwork 2</a></li>
+		<li><a href="metadata.php?index=3">Patchwork 3</a></li>
+		<li><a href="metadata.php?index=4">Patchwork 4</a></li>
+		<li><a href="metadata.php?index=5">Patchwork 5</a></li>
+	</ul>
+</body>
+</html>
